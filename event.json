@@ -1,0 +1,22 @@
+{
+  "title": "Футбольний матч",
+  "description": "Гра між Динамо та Шахтарем",
+  "eventDate": "2024-05-20T18:00:00Z",
+  "organizer": "УПЛ",
+  "registrations": [
+    {
+      "id": "ddsadsa21",
+      "fullName": "Іван Іванов",
+      "email": "ivan@example.com",
+      "dateOfBirth": "1990-01-01",
+      "source": "Facebook"
+    },
+    {
+      "id": "ddsadsa22",
+      "fullName": "Петро Петренко",
+      "email": "petro@example.com",
+      "dateOfBirth": "1985-05-15",
+      "source": "Друзі"
+    }
+  ]
+}
